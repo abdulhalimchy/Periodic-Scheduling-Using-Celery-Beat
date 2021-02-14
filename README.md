@@ -6,9 +6,9 @@ Note: This example project is for celery-5.0.5 & django-celery-beat-2.2.0
 
 ## Install all dependencies
 
-    cd to the directory where requirements.txt is located
-    activate your virtualenv
-    run: pip install -r requirements.txt in your shell
+    1. cd to the directory where requirements.txt is located
+    2. activate your virtualenv
+    3. run: pip install -r requirements.txt in your shell
 
 ## Setup Celery Settings
 Create a file **celery.py** in project folder. In this example, task_scheduling/task_scheduling/**celery.py**
