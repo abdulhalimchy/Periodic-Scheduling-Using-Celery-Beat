@@ -2,6 +2,8 @@
 
 This repository is containing a basic example project about periodic task using celery-beat. I used RabbitMQ as message broker.
 
+Note: This example project is for celery-5.0.5 & django-celery-beat-2.2.0
+
 ## Install all dependencies
 
     cd to the directory where requirements.txt is located
